@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Femi-Obafemi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Health Data Sience
+- 🌱 I’m currently in Health Data Sience
 - 💞️ I’m looking to collaborate on R and Python
 
 <!---
