@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Femi-Obafemi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently in Health Data Sience
+- 👀 I wrangle big Data
 - 💞️ I’m looking to collaborate on R and Python
 
 <!---
