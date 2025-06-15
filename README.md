@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Femi-Obafemi
 - 👀 I wrangle big Data
-- 💞️ I’m looking to collaborate on R and Python
+- 💞️ I’m looking to collaborate on projects
 
 <!---
 Femi-Obafemi/Femi-Obafemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
